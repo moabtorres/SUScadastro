@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391879235653",
+    "project_id": "projetomobile-f4a5e",
+    "storage_bucket": "projetomobile-f4a5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391879235653:android:65a88a3ab2376c087a6b2c",
+        "android_client_info": {
+          "package_name": "com.example.trabalhokotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391879235653-qumacmf7871153hitf21o2pkmq2p8bc5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYGn-Ko5T67XDXWrbnhwHHUBdgeNxQHY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391879235653-qumacmf7871153hitf21o2pkmq2p8bc5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

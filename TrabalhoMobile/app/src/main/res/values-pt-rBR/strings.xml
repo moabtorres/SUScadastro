@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SUScadastro</string>
+    <string name="signup">Registro</string>
+    <string name="name">Nome</string>
+    <string name="user">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="already">Não possui cadastro? Cadastre-se!</string>
+    <string name="login">Entrar</string>
+    <string name="msghelp">Envie seu feedback sobre a consulta!</string>
+    <string name="ajudantes">Lista de ajudantes</string>
+    <string name="helplister">Lista de usuários:</string>
+    <string name="numerodaconsulta">Número da consulta</string>
+    <string name="alreadylogin">" Já possui cadastro? Logue-se! "</string>
+    <string name="feedback">"Obrigado por nos fornecer seus dados de forma detalhada!"</string>
+    <string name="sucesssign">Você se cadastrou com sucesso!</string>
+    <string name="uservazio">Nome de usuário não pode estar vazio</string>
+    <string name="senhavazio">Senha não pode estar vazio</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SUScadastro</string>
+    <string name="signup">Signup</string>
+    <string name="name">Name</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="already">Don\'t have a registration? Register now!</string>
+    <string name="login">Login</string>
+    <string name="msghelp">Submit your feedback on the query!</string>
+    <string name="ajudantes">List of helpers</string>
+    <string name="helplister">List of users:</string>
+    <string name="numerodaconsulta">Number of query</string>
+    <string name="alreadylogin">Already have registration? Login!</string>
+    <string name="feedback">Thank you for providing us with your details in detail!</string>
+    <string name="sucesssign">You have signed up successfully!</string>
+    <string name="uservazio">Username cannot be empty</string>
+    <string name="senhavazio">Password cannot be empty</string>
+</resources>
